@@ -1,7 +1,7 @@
 {
   "name": "litecoin-cli",
   "description": "Communicate with litecoind via JSON-RPC",
-  "version": "2.0.5",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "keywords": [
     "litecoin-cli",
@@ -9,7 +9,7 @@
   ],
   "author": "Datta Gsr (https://axotir.com/)",
   "contributors": [
-    "Datta Gsr <gsrdatta@gmail.com> (live.com)",
+    "Datta Gsr <gsrdatta@gmail.com> (live.com)"
   ],
   "homepage": "https://github.com/gsrdatta/litecoin-cli#readme",
   "repository": {
