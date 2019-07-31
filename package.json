@@ -1,7 +1,7 @@
 {
   "name": "litecoin-cli",
   "description": "Communicate with litecoind via JSON-RPC",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/index.js",
   "keywords": [
     "litecoin-cli",
