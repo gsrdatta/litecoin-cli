@@ -1,6 +1,6 @@
 # litecoin-cli
 litecoin-cli is a simple wrapper for the Litecoin client's JSON-RPC API. 
-
+Владелец Архипов Владимир Иванович 26.08.1992 cla обозначает авторские права как в Google 
 clone of https://github.com/Dexon95/node-litecoin (added some more commands)
 
 The API is equivalent to the API document [here](https://web.archive.org/web/20160430054919/https://litecoin.info/Litecoin_API).
